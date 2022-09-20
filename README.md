@@ -1,3 +1,3 @@
 # Solidity-30DaysExpertChallenge
-Personal Challenge to Review and Master Solidity 
-Encode Expert Solidity Bootcamp 
+Encode Expert Solidity Bootcamp Participant - Personal Challenge to Review and Master Solidity 
+
